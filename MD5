@@ -1,6 +1,6 @@
-8e9a63d4bfb1c5a07f7c5264490fab0b *DESCRIPTION
+c4f1df7a90e7363bebe1ea70c6ed2c0c *DESCRIPTION
 72e8111332dbc4d63b1a43bfceaef5a7 *NAMESPACE
-deb81c6e0d1484ce27710a71fc8cf43b *NEWS.md
+1efbc0fdc0ab08229f966bf30b049049 *NEWS.md
 074793b107fe41e8c72ca70b0583c2e0 *R/cells.R
 f83b6c49c4afdc18802d8d07968c98bc *R/genes.R
 d890e1d6515047b49163b64a54c722c4 *R/helpers.R
@@ -8,7 +8,7 @@ e086d3f16601c7843fdd4da4f1f48e82 *R/pathways.R
 56c94c91141a502daa8d767d057b80d1 *R/pipeline_cells.R
 c17756b00b8034ebc6323ce26b85c3e1 *R/pipeline_pathways.R
 0acb5b431b21140046ade1d3dc6b2bb1 *R/zzz.R
-508f9c914760e31e337bcd0a7724aae4 *README.md
+455c74cf7a87425c7c4b8eec8eeb1897 *README.md
 5494e94e6ca6cc2d6f059e427355d53e *man/cells_search.Rd
 26a0bf1397b492d710be89c2446fe39a *man/cells_search_format.Rd
 2202a9d4f17ea40185f1ddfef459ed97 *man/cells_suggest.Rd
